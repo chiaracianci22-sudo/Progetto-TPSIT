@@ -1,3 +1,4 @@
 public class Domanda {
-    private string risposta;
+  private String domanda;
+  private String risposta;
 }
